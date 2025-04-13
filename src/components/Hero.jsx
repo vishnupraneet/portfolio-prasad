@@ -11,7 +11,7 @@ const Hero = () => {
           <p>33+ years of rich experience in multiple industries — driving transformation, change management, and performance excellence.</p>
         </div>
         <div className="hero-image">
-        <img src={`${process.env.PUBLIC_URL}/images/prasad.jpeg`} alt="PVSN Prasad" />
+          <img src="/images/prasad.jpeg" alt="PVSN Prasad" />
         </div>
       </div>
     </section>
