@@ -10,8 +10,8 @@ const Hero = () => {
           <h3>Mechanical Engineer | Operational Excellence Consultant</h3>
           <p>33+ years of rich experience in multiple industries — driving transformation, change management, and performance excellence.</p>
         </div>
-        <div className="hero-image">
-          <img src="/images/prasad.jpeg" alt="PVSN Prasad" />
+        <div className="hero-image"> 
+          <img src="https://raw.githubusercontent.com/vishnupraneet/portfolio-prasad/main/public/images/prasad.jpeg" alt="PVSN Prasad" /> 
         </div>
       </div>
     </section>
