@@ -1,0 +1,30 @@
+.highlights {
+    background-color: #f0faff;
+    padding: 4rem 2rem;
+    text-align: center;
+  }
+  
+  .highlights-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .highlights h2 {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    color: #002c4d;
+  }
+  
+  .highlights ul {
+    list-style: none;
+    padding: 0;
+    text-align: left;
+  }
+  
+  .highlights li {
+    font-size: 1.1rem;
+    color: #333;
+    margin-bottom: 1rem;
+    padding-left: 1.5rem;
+    position: relative;
+  }  
